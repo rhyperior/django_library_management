@@ -53,7 +53,6 @@ It will be an advantage for candidates to demonstrate the following:
 - [ ] `setup_instructions.md` should have all the details and instructions like how to setup and run the project
 - [ ] Repo should not contain irrelevant folders/files like cache files, build/dist directories etc.
 - [ ] Create API documentation using Swagger or similar framework
-- For any queries please email us at [hiring@truevalueaccess.com](mailto:hiring@truevalueaccess.com)
 
 [1]: https://jwt.io/introduction
 [2]: https://en.wikipedia.org/wiki/SOLID
